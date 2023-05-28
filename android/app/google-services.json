@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "549239369856",
+    "project_id": "siwpe-me",
+    "storage_bucket": "siwpe-me.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549239369856:android:c2abe70cf5c74bfca67665",
+        "android_client_info": {
+          "package_name": "com.example.swipe_me"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "549239369856-tjn0m27d1s6d026a8db66eqbb90dn9js.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1rcWJ5ymwTCEtoKRh0BkTxcRlMrNLD7c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "549239369856-tjn0m27d1s6d026a8db66eqbb90dn9js.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
